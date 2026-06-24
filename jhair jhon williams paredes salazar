@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Currículum - Jhair Jhon Williams Paredes Salazar</title>
+</head>
+<body>
+
+    <!-- Encabezado Principal -->
+    <header>
+        <h1>Jhair Jhon Williams Paredes Salazar</h1>
+        <p><strong>Estudiante de Ciencia de Datos</strong></p>
+        <p>Universidad Católica de San Pablo | Arequipa, Perú</p>
+        <p>Contacto: tu-correo@email.com | Teléfono: +51 XXX XXX XXX</p>
+        <p>GitHub: github.com/tu-usuario | LinkedIn: linkedin.com/in/tu-perfil</p>
+    </header>
+
+    <hr>
+
+    <!-- Sección Sobre Mí -->
+    <section>
+        <h2>Sobre Mí</h2>
+        <p>
+            Soy estudiante de la carrera de Ciencia de Datos en la Universidad Católica de San Pablo. Me considero una persona con una sólida inclinación hacia el pensamiento lógico, el razonamiento matemático y la resolución de problemas complejos. Disfruto enfrentarme a desafíos intelectuales y técnicos, utilizando herramientas analíticas y tecnológicas para transformar datos en conocimiento útil.
+        </p>
+    </section>
+
+    <!-- Sección de Pasión por la Carrera en la San Pablo -->
+    <section>
+        <h2>Mi Experiencia y Pasión por la Ciencia de Datos</h2>
+        <p>
+            Lo que realmente me fascina de la Ciencia de Datos es su capacidad para hacer visible lo invisible, permitiendo encontrar patrones ocultos y estructurar soluciones donde otros solo ven caos. Estudiar esta disciplina en la Universidad Católica de San Pablo me ha brindado la oportunidad de conectar la rigurosidad matemática y lógica con un enfoque integral, preparándome para generar un impacto real y positivo en el entorno técnico y social.
+        </p>
+        <p>
+            Disfruto profundamente el proceso de aprendizaje en el campus, compartiendo ideas con compañeros y docentes, y explorando la intersección perfecta entre la estadística, la programación y la analítica predictiva. Cada algoritmo desarrollado y cada problema lógico resuelto refuerzan mi motivación para seguir superándome y perfeccionando mis habilidades día a día en esta apasionante profesión.
+        </p>
+    </section>
+
+    <!-- Sección de Enfoque Académico -->
+    <section>
+        <h2>Áreas de Enfoque y Estudio</h2>
+        <ul>
+            <li><strong>Matemática y Razonamiento Lógico:</strong> Aplicación de fundamentos cuantitativos rígidos para el modelado y la resolución de problemas.</li>
+            <li><strong>Análisis Exploratorio de Datos (EDA):</strong> Estructuración, limpieza y descubrimiento de patrones iniciales en conjuntos de datos.</li>
+            <li><strong>Lógica de Programación:</strong> Construcción de scripts eficientes y desarrollo de pensamiento estructurado para la manipulación de información.</li>
+        </ul>
+    </section>
+
+    <!-- Sección de Educación -->
+    <section>
+        <h2>Educación</h2>
+        <p><strong>Grado en Ciencia de Datos</strong></p>
+        <p>Universidad Católica de San Pablo (Arequipa, Perú) | <em>En curso</em></p>
+    </section>
+
+    <!-- Sección de Habilidades -->
+    <section>
+        <h2>Habilidades Clave</h2>
+        <ul>
+            <li>Fuerte base en razonamiento lógico y pensamiento matemático.</li>
+            <li>Curiosidad intelectual, atención al detalle y orientación a resultados.</li>
+            <li>Nociones de control de versiones y gestión de código con Git y GitHub.</li>
+            <li>Capacidad de autoaprendizaje y adaptabilidad a entornos tecnológicos dinámicos.</li>
+        </ul>
+    </section>
+
+    <hr>
+
+    <!-- Pie de página -->
+    <footer>
+        <p><em>Documento generado en formato HTML para presentación personal y académica.</em></p>
+    </footer>
+
+</body>
+</html>
